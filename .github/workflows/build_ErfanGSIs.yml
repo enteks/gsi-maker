@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/V12.0.1.0.PEKMIXM/miui_HMNote6ProGlobal_V12.0.1.0.PEKMIXM_1920d51d84_9.0.zip
+  ROM_URL: https://s331man.storage.yandex.net/rdisk/998f4eb1752169519f37204e34e792f18cfd446b67cb6975b1fe42fc34d2c2d9/602fd0df/Av7yVleztnw7sFG-Vu0QQ5ZyHDx62sjvZoRn1LtAHrWsYUXULB0B1gFMt-dtZb2ZYe9hTt4r96I1RUWbuJxaKg==?uid=0&filename=MIUITR_REDMINOTE4-4X_MIDO_M12.5-A10_21.2.15.zip&disposition=attachment&hash=25iBdyP3ftOo0TOe5erzD2%2BAwcIYlD4kXWWAh51VyzYWPHL798AY08cV66Nu0Dhtq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=application%2Fzip&owner_uid=226448624&fsize=1654431902&hid=2d4902706027753eb1ea9fe1712e4c88&media_type=compressed&tknv=v2&rtoken=K3FSN0yA8bcW&force_default=no&ycrid=na-2147a981be3528e9ab1282faaaa971ef-downloader12f&ts=5bbb19cdeb5c0&s=e53a6314c5de5d7d4f51ebafad1851f304b73399f24a85e12b1b72aa6e3d663c&pb=U2FsdGVkX1--aOgVFwdln2tzDnXa-wIdygliQplrL18_Hc293tKo71FiCYXVJ_YFayksm7xr4zug2Is7Ot5ndYDXfR6OeHnMlt0Zp3MSoB0
   ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
